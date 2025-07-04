@@ -1,0 +1,1 @@
+# Autoconfig-Thunderbird
